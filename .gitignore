@@ -1,0 +1,12 @@
+bin/
+isodirs/
+
+*.o
+*.elf
+
+*.swp
+*.swo
+*~
+.DS_Store
+
+gitpublish.sh
