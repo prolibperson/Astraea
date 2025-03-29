@@ -4,7 +4,7 @@ MAKEFLAGS += -rR
 
 # toolchain
 CC := x86_64-elf-gcc
-AS := nasm  # Use nasm for assembly files
+AS := nasm
 LD := x86_64-elf-ld
 AR := x86_64-elf-ar
 
